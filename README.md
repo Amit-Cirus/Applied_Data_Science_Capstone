@@ -1,4 +1,4 @@
-# Applied_Data_Science_Capstone
+# Applied_Data_Science_Capstone | Amit Blizer 
 Data science capstone - IBM
 
 This project is a part of Data Science specialization on coursera. 
